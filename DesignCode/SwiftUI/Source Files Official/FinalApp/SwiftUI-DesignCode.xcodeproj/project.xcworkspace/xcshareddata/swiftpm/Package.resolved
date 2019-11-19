@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Lottie",
+        "repositoryURL": "https://github.com/airbnb/lottie-ios.git",
+        "state": {
+          "branch": null,
+          "revision": "e1825c68af24dd367b278018c5fd7021a5564c94",
+          "version": "3.1.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
